@@ -14,3 +14,5 @@ Imports:
     magrittr,
     readr,
     stringr
+URL: https://github.com/zach-simpson/AM8Kspec
+BugReports: https://github.com/zach-simpson/AM8Kspec/issues
