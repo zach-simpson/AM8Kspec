@@ -8,6 +8,14 @@
 \description{
 Read and parse the text output from our spectrophotometer, recreate calibrations, diagnose measurements and quality.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/zach-simpson/AM8Kspec}
+  \item Report bugs at \url{https://github.com/zach-simpson/AM8Kspec/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Zach Simpson \email{zachary.simpson@usda.gov}
 

@@ -13,6 +13,7 @@ Imports:
     ggplot2,
     magrittr,
     readr,
-    stringr
+    stringr,
+    tidyr
 URL: https://github.com/zach-simpson/AM8Kspec
 BugReports: https://github.com/zach-simpson/AM8Kspec/issues
