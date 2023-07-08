@@ -3,7 +3,7 @@
 #' @param spec_raw The output from `read_raw_spec_txt`
 #'
 #' @return A tibble with the standards' IDs, absorbances, and concentrations.
-#'
+#' @export
 # @examples # TODO
 extract_spec_calib <- function(spec_raw){
 
