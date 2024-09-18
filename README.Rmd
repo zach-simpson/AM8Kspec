@@ -26,5 +26,5 @@ You can install the development version of AM8Kspec from [GitHub](https://github
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("zach-simpson/AM8Kspec")
+remotes::install_github("zach-simpson/AM8Kspec")
 ```
